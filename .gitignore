@@ -1,7 +1,27 @@
-#	IDE folder
-nbactions.xml
-nbactions_1.xml
+/target/
+!.mvn/wrapper/maven-wrapper.jar
 
-#	Compiled folder
-target/
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
 
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+/nbactions.xml
+/nbactions_1.xml
